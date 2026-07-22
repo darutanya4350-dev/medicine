@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "09f6f44902722fb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d46f38249ae8e36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b54eaae717d955b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fdb372cbab215b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fd145b049975d0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4225beb31dd39e1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c93bb3b9ce270552",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "DIC",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "317d9e19b7a6d328",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8617d2521ffed74",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f104a7247c0e6b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3ba92ae2c1e9134",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "237094b804198eb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "abbbefeb932e1ab3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "27eb2f59b952c96e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "260be1602c5fb975",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "05cc910b1fd94c60",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "d5c811a474d4e9c5",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 673.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "7b54eaae717d955b",
+  "lastOpenFiles": [
+    "03_疾患/膠原病・免疫/高安動脈炎.md",
+    "03_疾患/血液/DIC.md",
+    "03_疾患/感染症/百日咳.md",
+    "03_疾患/循環器/急性心膜炎.md",
+    "03_疾患/循環器/先天性心疾患/チアノーゼによる分類.md",
+    "03_疾患/循環器/先天性心疾患",
+    "04_検査/スコア/SOFA.md",
+    "03_疾患/循環器/心室性期外収縮.md",
+    "血友病A.md",
+    "02_症候・診察/間欠跛行.md",
+    "03_疾患/循環器/心不全の代償反応.md",
+    "03_疾患/循環器/大動脈弁狭窄症.md",
+    "01_基礎医学/生理/動脈管.md",
+    "03_疾患/循環器/急性左心不全.md",
+    "06_薬剤/自律神経・循環/抗不整脈薬.md",
+    "06_薬剤/自律神経・循環/カルシウム拮抗薬.md",
+    "06_薬剤/自律神経・循環/ニトログリセリン.md",
+    "03_疾患/循環器/冠攣縮性狭心症.md",
+    "01_基礎医学/病理/急性心筋梗塞の病理学的変化.md",
+    "01_基礎医学/病理",
+    "01_基礎医学/生理/Windkessel機能.md",
+    "03_疾患/循環器/閉塞性動脈硬化症.md",
+    "03_疾患/循環器/糖尿病と冠動脈疾患.md",
+    "05_治療/手術/ストリッピング術.md",
+    "05_治療/手術",
+    "06_薬剤/自律神経・循環/β遮断薬.md",
+    "02_症候・診察/Ⅲ音.md",
+    "03_疾患/循環器/僧帽弁閉鎖不全症.md",
+    "03_疾患/感染症/敗血症性ショック.md",
+    "Pasted image 20260721191533.png",
+    "03_疾患/循環器",
+    "03_疾患/眼科/_attachments/網膜中心静脈閉塞症_眼底像.png",
+    "03_疾患/眼科/_attachments/角膜ヘルペス_樹枝状病変.png",
+    "03_疾患/眼科/_attachments",
+    "01_基礎医学/解剖",
+    "03_疾患/血液/_attachments/濾胞性リンパ腫_病理像.png",
+    "03_疾患/血液/_attachments/急性前骨髄球性白血病_ファゴット細胞.png",
+    "01_基礎医学/血液/_attachments/溶血_ビリルビン代謝.png",
+    "01_基礎医学/血液/_attachments",
+    "03_疾患/血液/_attachments/TTP_破砕赤血球・ヘルメット型赤血球.png",
+    "03_疾患/血液/_attachments/Hodgkinリンパ腫_Reed-Sternberg細胞.png",
+    "03_疾患/血液/_attachments/成人T細胞白血病リンパ腫_flower_cell.png",
+    "03_疾患/血液/_attachments/多発性骨髄腫_骨髄像.png",
+    "03_疾患/血液/_attachments",
+    "07_公衆衛生・法医学/産業保健",
+    "07_公衆衛生・法医学/法医学",
+    "Untitled.canvas"
+  ]
+}
