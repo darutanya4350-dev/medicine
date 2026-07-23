@@ -11,10 +11,14 @@
             "id": "7b54eaae717d955b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "04_検査/検体検査/新生児マススクリーニング.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "新生児マススクリーニング"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DIC",
+                "query": "新生児マス",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04_検査/検体検査/新生児マススクリーニング.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 新生児マススクリーニング"
             }
           },
           {
@@ -109,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04_検査/検体検査/新生児マススクリーニング.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 新生児マススクリーニング"
             }
           },
           {
@@ -151,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04_検査/検体検査/新生児マススクリーニング.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 新生児マススクリーニング"
             }
           },
           {
@@ -204,52 +211,52 @@
   },
   "active": "7b54eaae717d955b",
   "lastOpenFiles": [
-    "03_疾患/膠原病・免疫/高安動脈炎.md",
-    "03_疾患/血液/DIC.md",
-    "03_疾患/感染症/百日咳.md",
-    "03_疾患/循環器/急性心膜炎.md",
-    "03_疾患/循環器/先天性心疾患/チアノーゼによる分類.md",
+    "01_基礎医学/免疫/母体由来抗体.md",
+    "01_基礎医学/免疫",
+    "03_疾患/感染症/風疹.md",
+    "03_疾患/小児科/肥厚性幽門狭窄症.md",
+    "03_疾患/小児科/腸重積症.md",
+    "03_疾患/膠原病・免疫/川崎病.md",
+    "02_症候・診察/Apgarスコア.md",
+    "01_基礎医学/生理/小児の体液組成と体表面積.md",
+    "03_疾患/小児科/母乳性黄疸.md",
+    "01_基礎医学/生理/新生児の正常経過.md",
+    "03_疾患/小児科/成長ホルモン分泌不全性低身長症.md",
+    "02_症候・診察/低身長.md",
+    "03_疾患/小児科/口唇口蓋裂.md",
+    "01_基礎医学/発生/胎児期の発生.md",
+    "01_基礎医学/発生",
+    "03_疾患/小児科/Klinefelter症候群.md",
+    "03_疾患/小児科/ガラクトース血症.md",
+    "06_薬剤/免疫・内分泌/カプラシズマブ.md",
+    "03_疾患/小児科/思春期遅発症.md",
+    "03_疾患/小児科/思春期早発症.md",
+    "02_症候・診察/Koplik斑.md",
+    "03_疾患/感染症/麻疹.md",
+    "04_検査/血液/小児の検査基準値.md",
+    "03_疾患/感染症/リウマチ熱.md",
+    "07_公衆衛生・法医学/感染症対策/学校感染症.md",
+    "01_基礎医学/遺伝/X連鎖劣性遺伝.md",
+    "01_基礎医学/遺伝",
+    "03_疾患/小児科/乳児ビタミンK欠乏性出血症.md",
+    "02_症候・診察/高張性脱水.md",
+    "03_疾患/小児科/_attachments/先天性胆道拡張症_CT_B.png",
+    "03_疾患/小児科/_attachments/先天性胆道拡張症_CT_A.png",
+    "03_疾患/小児科/_attachments",
+    "03_疾患/小児科",
+    "04_検査/眼科",
+    "03_疾患/産婦人科",
     "03_疾患/循環器/先天性心疾患",
-    "04_検査/スコア/SOFA.md",
-    "03_疾患/循環器/心室性期外収縮.md",
-    "血友病A.md",
-    "02_症候・診察/間欠跛行.md",
-    "03_疾患/循環器/心不全の代償反応.md",
-    "03_疾患/循環器/大動脈弁狭窄症.md",
-    "01_基礎医学/生理/動脈管.md",
-    "03_疾患/循環器/急性左心不全.md",
-    "06_薬剤/自律神経・循環/抗不整脈薬.md",
-    "06_薬剤/自律神経・循環/カルシウム拮抗薬.md",
-    "06_薬剤/自律神経・循環/ニトログリセリン.md",
-    "03_疾患/循環器/冠攣縮性狭心症.md",
-    "01_基礎医学/病理/急性心筋梗塞の病理学的変化.md",
     "01_基礎医学/病理",
-    "01_基礎医学/生理/Windkessel機能.md",
-    "03_疾患/循環器/閉塞性動脈硬化症.md",
-    "03_疾患/循環器/糖尿病と冠動脈疾患.md",
-    "05_治療/手術/ストリッピング術.md",
     "05_治療/手術",
-    "06_薬剤/自律神経・循環/β遮断薬.md",
-    "02_症候・診察/Ⅲ音.md",
-    "03_疾患/循環器/僧帽弁閉鎖不全症.md",
-    "03_疾患/感染症/敗血症性ショック.md",
     "Pasted image 20260721191533.png",
-    "03_疾患/循環器",
     "03_疾患/眼科/_attachments/網膜中心静脈閉塞症_眼底像.png",
     "03_疾患/眼科/_attachments/角膜ヘルペス_樹枝状病変.png",
-    "03_疾患/眼科/_attachments",
-    "01_基礎医学/解剖",
     "03_疾患/血液/_attachments/濾胞性リンパ腫_病理像.png",
     "03_疾患/血液/_attachments/急性前骨髄球性白血病_ファゴット細胞.png",
     "01_基礎医学/血液/_attachments/溶血_ビリルビン代謝.png",
-    "01_基礎医学/血液/_attachments",
     "03_疾患/血液/_attachments/TTP_破砕赤血球・ヘルメット型赤血球.png",
     "03_疾患/血液/_attachments/Hodgkinリンパ腫_Reed-Sternberg細胞.png",
-    "03_疾患/血液/_attachments/成人T細胞白血病リンパ腫_flower_cell.png",
-    "03_疾患/血液/_attachments/多発性骨髄腫_骨髄像.png",
-    "03_疾患/血液/_attachments",
-    "07_公衆衛生・法医学/産業保健",
-    "07_公衆衛生・法医学/法医学",
     "Untitled.canvas"
   ]
 }
