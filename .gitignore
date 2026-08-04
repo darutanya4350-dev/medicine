@@ -1,2 +1,5 @@
 # macOS Finder metadata
 .DS_Store
+
+# Local QR code tool
+qr-code-switcher/

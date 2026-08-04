@@ -1,6 +1,6 @@
 # HELLP症候群
 
-> **HELLP症候群**は、妊娠後期から産褥期に起こる、溶血（Hemolysis）・肝酵素上昇（Elevated Liver enzymes）・血小板減少（Low Platelets）を主徴とする重篤な妊娠合併症である。急速に悪化しうるため、早期の検査と母児管理が必要である。
+> **HELLP症候群**は、妊娠後期から産褥期に起こる、溶血（Hemolysis）・肝酵素上昇（Elevated Liver enzymes）・[[血小板減少]]（Low Platelets）を主徴とする重篤な妊娠合併症である。急速に悪化しうるため、早期の検査と母児管理が必要である。
 
 ## 要点
 
