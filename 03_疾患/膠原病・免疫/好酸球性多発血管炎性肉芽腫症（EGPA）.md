@@ -1,6 +1,6 @@
 # 好酸球性多発血管炎性肉芽腫症（EGPA）
 
-> **好酸球性多発血管炎性肉芽腫症（eosinophilic granulomatosis with polyangiitis：EGPA）**は、気管支喘息・好酸球増多を背景に起こる小〜中型血管炎。旧称はChurg–Strauss症候群、アレルギー性肉芽腫性血管炎。
+> **好酸球性多発血管炎性肉芽腫症（eosinophilic granulomatosis with polyangiitis：EGPA）**は、[[気管支喘息]]・好酸球増多を背景に起こる小〜中型[[血管炎]]。旧称はChurg–Strauss症候群、アレルギー性肉芽腫性血管炎。
 
 ## 要点
 
