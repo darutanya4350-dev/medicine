@@ -6,9 +6,9 @@
 
 | 検査 | 評価するもの | 延長する代表例 |
 |---|---|---|
-| [[出血時間・PT・APTTの比較|出血時間]] | 血小板数・血小板機能・[[von Willebrand因子]]・血管壁 | [[免疫性血小板減少症]]、血小板機能異常、[[von Willebrand病]] |
+| 出血時間 | 血小板数・血小板機能・[[von Willebrand病|von Willebrand因子]]・血管壁 | [[免疫性血小板減少症]]、血小板機能異常、[[von Willebrand病]] |
 | PT（prothrombin time：プロトロンビン時間） | 外因系＋共通系：VII、X、V、II、I | [[ビタミンK欠乏症]]、ワルファリン、肝障害、[[DIC]]、第VII因子欠乏 |
-| APTT（activated partial thromboplastin time：活性化部分トロンボプラスチン時間） | 内因系＋共通系：XII、XI、IX、VIII、X、V、II、I | [[血友病A]]、[[血友病B]]、未分画ヘパリン、[[ループスアンチコアグラント]] |
+| APTT（activated partial thromboplastin time：活性化部分トロンボプラスチン時間） | 内因系＋共通系：XII、XI、IX、VIII、X、V、II、I | [[血友病|血友病A]]、[[血友病|血友病B]]、未分画ヘパリン、[[ループスアンチコアグラント]] |
 
 出血時間は再現性・感度が低いため、現在は術前スクリーニングとして通常は用いないが、CBTでは一次止血の指標として扱う。
 

@@ -1,6 +1,6 @@
 # PIVKA-II
 
-> **PIVKA-II**（protein induced by vitamin K absence or antagonist-II）は、ビタミンK依存性のγカルボキシル化が不十分な[[異常プロトロンビン]]である。[[肝細胞癌]]の[腫瘍マーカー](腫瘍マーカー.md)だが、ビタミンK欠乏などでも上昇する。
+> **PIVKA-II**（protein induced by vitamin K absence or antagonist-II）は、ビタミンK依存性のγカルボキシル化が不十分な異常プロトロンビンである。[[肝細胞癌]]の[腫瘍マーカー](腫瘍マーカー.md)だが、ビタミンK欠乏などでも上昇する。
 
 ## 要点
 
