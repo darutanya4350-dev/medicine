@@ -3,3 +3,8 @@
 
 # Local QR code tool
 qr-code-switcher/
+
+# Photos
+*.png
+*.jpeg
+*.jpg
