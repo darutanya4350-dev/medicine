@@ -1,6 +1,6 @@
 # 内視鏡的逆行性胆管膵管造影（ERCP）
 
-> Endoscopic Retrograde Cholangiopancreatography（ERCP）。内視鏡で十二指腸乳頭へ到達し、胆管・膵管に造影剤を逆行性に注入して狭窄や閉塞を評価する検査。
+> Endoscopic Retrograde Cholangiopancreatography（ERCP）。内視鏡で十二指腸乳頭へ到達し、胆管・膵管に[[造影剤]]を逆行性に注入して狭窄や閉塞を評価する検査。
 
 ## 要点
 
