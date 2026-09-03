@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "くも膜下",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 11.0442708333333,
   "linkStrength": 0.409157986111111,
   "linkDistance": 500,
-  "scale": 0.08456841483012952,
+  "scale": 0.5244895540824932,
   "close": false
 }
